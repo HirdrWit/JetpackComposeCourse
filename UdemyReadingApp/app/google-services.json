@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338519457364",
+    "project_id": "udemyreadingapp",
+    "storage_bucket": "udemyreadingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338519457364:android:79a47f1b9fc37d44b2f7c1",
+        "android_client_info": {
+          "package_name": "com.example.udemyreadingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1SiJcPp7llQBjEOwgxDmi01p6G4ZSYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
